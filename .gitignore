@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+robot_results/
+output.xml
+log.html
+report.html
